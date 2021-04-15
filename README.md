@@ -1,4 +1,4 @@
-<div style=" margin:0 auto;">
+<div margin="0px auto">
   <img src='https://img.shields.io/badge/Programmed%20in-Reactjs-green.svg?style=for-the-badge&logo=react'/>
   </div>
 
