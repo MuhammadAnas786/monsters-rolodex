@@ -1,6 +1,6 @@
 <p align="center">
   <img src='https://img.shields.io/badge/Programmed%20in-Reactjs-green.svg?style=for-the-badge&logo=react'/>
-  </dip>
+  </p>
 
 # Deployment
 https://muhammadanas786.github.io/monsters-rolodex/ demo app deployed on this link.
